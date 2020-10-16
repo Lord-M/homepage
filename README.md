@@ -6,7 +6,7 @@ Ilona Poplavska:
 >The question I ask myself like almost every day is, 'Am I doing the most important thing I could be doing?' ...
 
 ## Preview :mag:
-![Image alt](https://github.com/lord-m/homepage/blob/develop/assets/images/Test.jpg)
+![Image alt](https://github.com/lord-m/homepage/)
 
 ## Links :electric_plug:
 - [GitHub Pages](https://lord-m.github.io/homepage/)
