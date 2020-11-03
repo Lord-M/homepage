@@ -2,8 +2,7 @@
 My very own personal website. Basically this is just a résumé.
 🧙Hocus-pocus!
 
-Ilona Poplavska:
->The question I ask myself like almost every day is, 'Am I doing the most important thing I could be doing?' ...
+
 
 ## Preview :mag:
 ![Image alt](https://github.com/lord-m/homepage/)
