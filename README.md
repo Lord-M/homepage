@@ -5,7 +5,7 @@ My very own personal website. Basically this is just a résumé.
 
 
 ## Preview :mag:
-![Image alt](https://github.com/lord-m/homepage/)
+
 
 ## Links :electric_plug:
 - [GitHub Pages](https://lord-m.github.io/homepage/)
